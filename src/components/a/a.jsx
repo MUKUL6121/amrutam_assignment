@@ -22,7 +22,6 @@ function A() {
             settitle(slogan[i].title);
             i = (i + 1) % slogan.length;
         }, 3000);
-        Animation()
         return () => clearInterval(vit);
     });
     return (
