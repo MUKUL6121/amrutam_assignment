@@ -1,0 +1,23 @@
+#main-c {
+    background-color: #FFF6DD;
+    margin-top: -50px;
+}
+
+#main-c #splp {
+    font-size: 12px;
+}
+
+#btn_container button {
+    background-color: #FFF6DD;
+    color: #18764a;
+    padding: 5px;
+    font-size: 14px;
+    border: 1px solid #18764a;
+    font-weight: 400;
+}
+
+#btn_container button:hover {
+    background-color: #18764a;
+    color: #FFF6DD;
+    display: flex;
+}
